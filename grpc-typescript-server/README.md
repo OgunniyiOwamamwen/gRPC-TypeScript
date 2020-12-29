@@ -11,8 +11,7 @@ Added package.json
 ......
   "scripts": {
     "build": "sh proto/build.sh",
-    "server": "ts-node server/index.ts",
-    "client": "ts-node client/index.ts"
+    "server": "ts-node server/index.ts"
   }
   
 ..............
